@@ -1,0 +1,9 @@
+Este es mi archivo | y esta separado por el | gracias
+puedo colocarlo también sin separador
+pero quiero hacer la lectura | separándolos para tener diferentes cadenas de String
+hola a todos | recuerde decir presente
+esta linea la agrego el usuario
+puedo colocar el | y no tengo problemas en hacerlo
+ahora si ahora si no fallo | dasdasdasd
+wereffdaSDSDAFSSDLKN
+TACARES CASA 89 102 MTS dasd - 12312 525 */
